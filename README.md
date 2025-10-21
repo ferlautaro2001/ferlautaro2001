@@ -9,23 +9,23 @@
 
 ### 👨‍💻 About me
 
-- [cite_start]🇦🇷 I'm from **Lanús, Buenos Aires, Argentina**. [cite: 43]
+- 🇦🇷 I'm from **Lanús, Buenos Aires, Argentina**. 
 
-- [cite_start]🎓 I'm currently studying **Técnico Universitario en Programación** at Universidad Tecnológica Nacional (UTN). [cite: 74, 75] [cite_start]I'm on my way to becoming a Full-Stack Jr. developer. [cite: 78]
+- 🎓 I'm currently studying **Técnico Universitario en Programación** at Universidad Tecnológica Nacional (UTN). I'm on my way to becoming a Full-Stack Jr. developer. 
 
-- [cite_start]🌱 I'm focusing on deepening my knowledge in **Java with Spring Boot, Angular, and databases like MySQL and MongoDB**. [cite: 88]
+- 🌱 I'm focusing on deepening my knowledge in **Java with Spring Boot, Angular, and databases like MySQL and MongoDB**. 
 
-- [cite_start]🚀 I'm looking for opportunities to apply my communication and problem-solving skills, and to continue growing as a professional developer. [cite: 47]
+- 🚀 I'm looking for opportunities to apply my communication and problem-solving skills, and to continue growing as a professional developer. 
 
-- [cite_start]✨ **Fun fact:** Before diving into programming, I studied Economics and had the best average in my class! [cite: 81, 83]
+- ✨ **Fun fact:** Before diving into programming, I studied Economics and had the best average in my class! 
 
-- [cite_start]📫 How to reach me: **ferlautaro.utn.2001@gmail.com** [cite: 43]
+- 📫 How to reach me: **ferlautaro.utn.2001@gmail.com** 
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-Here is the tech stack I'm currently working with:
+Here is the tech stack I'm gonna have once i finish my degree:
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
