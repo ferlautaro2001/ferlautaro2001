@@ -1,4 +1,4 @@
-# Hi, my name is Lautaro 👋
+# Hi world, my name is Lautaro 👋
 
 ### I'm a programming student, building digital solutions.
 
