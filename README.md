@@ -11,13 +11,9 @@
 
 - 🇦🇷 I'm from **Lanús, Buenos Aires, Argentina**. 
 
-- 🎓 I'm currently studying **Técnico Universitario en Programación** at Universidad Tecnológica Nacional (UTN). I'm on my way to becoming a Full-Stack Jr. developer. 
+- 🎓 I'm currently studying **Técnicatura Universitaria en Programación** at Universidad Tecnológica Nacional (UTN). I'm on my way to becoming a Full-Stack Jr. developer. 
 
-- 🌱 I'm focusing on deepening my knowledge in **Java with Spring Boot, Angular, and databases like MySQL and MongoDB**. 
-
-- 🚀 I'm looking for opportunities to apply my communication and problem-solving skills, and to continue growing as a professional developer. 
-
-- ✨ **Fun fact:** Before diving into programming, I studied Economics and had the best average in my class! 
+- 🌱 I'm currently focusing on deepening my knowledge in **Java and MySQL**.  
 
 - 📫 How to reach me: **ferlautaro.utn.2001@gmail.com** 
 
