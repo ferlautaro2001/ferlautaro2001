@@ -11,7 +11,7 @@
 
 - 🇦🇷 I'm from **Lanús, Buenos Aires, Argentina**. 
 
-- 🎓 I'm currently studying **Técnicatura Universitaria en Programación** at Universidad Tecnológica Nacional (UTN). I'm on my way to becoming a Full-Stack Jr. developer. 
+- 🎓 I'm currently studying **Técnicatura Universitaria en Programación** at Universidad Tecnológica Nacional (UTN). I'm on my way to becoming a Full-Stack Jr. Developer. 
 
 - 📫 How to reach me: **ferlautaro.utn.2001@gmail.com** 
 
