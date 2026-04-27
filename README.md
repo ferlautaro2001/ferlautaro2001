@@ -13,8 +13,6 @@
 
 - 🎓 I'm currently studying **Técnicatura Universitaria en Programación** at Universidad Tecnológica Nacional (UTN). I'm on my way to becoming a Full-Stack Jr. developer. 
 
-- 🌱 I'm currently focusing on deepening my knowledge in **Java and MySQL**.  
-
 - 📫 How to reach me: **ferlautaro.utn.2001@gmail.com** 
 
 ---
