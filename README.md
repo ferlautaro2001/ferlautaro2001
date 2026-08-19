@@ -22,6 +22,18 @@
 <table>
   <tr>
     <td width="50%">
+      <h4><a href="https://github.com/ferlautaro2001/frigotrack">❄️ FrigoTrack</a></h4>
+      <p>Just front-end prototype. Cold-chain logistics management dashboard featuring role-based authentication, cold transport checklist, interactive Chart.js analytics, real-time alerts & printable departure notes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="chartjs"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="tailwindcss"/>
+      </p>
+      <a href="https://ferlautaro2001.github.io/frigotrack/">🔗 Live demo</a>
+    </td>
+    <td width="50%">
       <h4><a href="https://github.com/ferlautaro2001/Poke-Dex">🔍 Poke-Dex</a></h4>
       <p>Web app that consumes the <a href="https://pokeapi.co/">PokeAPI</a> and renders cards with each Pokémon's image, type, size and base stats. Built with vanilla JS using ES modules and JSDoc typing.</p>
       <p>
@@ -31,6 +43,8 @@
       </p>
       <a href="https://ferlautaro2001.github.io/Poke-Dex/">🔗 Live demo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4><a href="https://github.com/ferlautaro2001/tp-integrador">📦 TP Integrador</a></h4>
       <p>Full-stack university project split into <code>proyecto-back</code> and <code>proyecto-front</code>, with a Node/Express API served to an HTML-CSS-JS front end.</p>
@@ -39,6 +53,8 @@
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="express"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript"/>
       </p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
