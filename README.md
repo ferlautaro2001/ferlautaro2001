@@ -89,11 +89,4 @@
   </a>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferlautaro2001&show_icons=true&theme=dark&hide_border=true" alt="Lautaro's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferlautaro2001&theme=dark&hide_border=true" alt="Lautaro's GitHub streak" width="48%"/>
-</p>
