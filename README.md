@@ -1,6 +1,6 @@
 # Hello world, my name is Lautaro 👋
 
-### I'm a programming student, building digital solutions.
+### Programming student focused on full-stack web development and building practical digital solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-fernandez-241a31237/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferlautaro.utn.2001@gmail.com)
@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About me
 
-- 🇦🇷 I'm from **Lanús, Buenos Aires, Argentina**.
-- 🎓 I'm currently studying **Tecnicatura Universitaria en Programación** at Universidad Tecnológica Nacional (UTN). I'm on my way to becoming a Full-Stack Jr. Developer.
-- 🔭 I'm currently building full-stack and front-end projects to apply what I learn at UTN.
-- 📫 How to reach me: **ferlautaro.utn.2001@gmail.com**
+- 🇦🇷 Based in **Buenos Aires, Argentina**.
+- 🎓 Studying **Tecnicatura Universitaria en Programación** at Universidad Tecnológica Nacional (UTN).
+- 💻 Focused on **full-stack development**, web applications and backend services.
+- ⚙️ Working with Angular, TypeScript, Node.js, Express, PostgreSQL, Supabase, Docker and CI/CD.
 
 ---
 
@@ -22,19 +22,49 @@
   <tr>
     <td width="50%" valign="top">
       <h4>
+        <a href="https://github.com/ferlautaro2001/novacinema">🎬 NovaCinema</a>
+      </h4>
+      <p>
+        Full-stack cinema management platform with movie listings, online ticket sales,
+        seat selection, candy bar, QR validation, loyalty points and an administration dashboard.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>
+        <a href="https://github.com/ferlautaro2001/sakurapp-2026">🌸 SakurApp</a>
+      </h4>
+      <p>
+        Mobile application developed as a university final project, featuring
+        authentication, role-based workflows, QR scanning and native mobile capabilities.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+        <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic"/>
+        <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>
         <a href="https://github.com/ferlautaro2001/frigotrack">❄️ FrigoTrack</a>
       </h4>
       <p>
-        Front-end prototype for cold-chain logistics management, featuring
-        role-based authentication, cold transport checklists, interactive
-        Chart.js analytics, real-time alerts and printable departure notes.
+        Cold-chain logistics management prototype featuring role-based access,
+        inventory control, temperature validation, analytics, alerts and digital departure notes.
       </p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
       </p>
       <a href="https://ferlautaro2001.github.io/frigotrack/">🔗 Live demo</a>
     </td>
@@ -43,13 +73,13 @@
         <a href="https://github.com/ferlautaro2001/tp-integrador">📦 TP Integrador</a>
       </h4>
       <p>
-        Full-stack university project split into <code>proyecto-back</code>
-        and <code>proyecto-front</code>, with a Node.js/Express API serving
-        an HTML, CSS and JavaScript front end.
+        Full-stack university project with a Node.js and Express REST API
+        serving an HTML, CSS and JavaScript front end.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" alt="REST API"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
     </td>
@@ -135,6 +165,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
 </p>
