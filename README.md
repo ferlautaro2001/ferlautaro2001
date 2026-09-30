@@ -18,12 +18,19 @@
 ## 👨‍💻 About me
 
 ```ts
-const lautaro = {
-  location: "Buenos Aires, Argentina 🇦🇷",
-  education: "Tecnicatura Universitaria en Programación - UTN",
-  focus: ["Full-Stack Development", "Web Applications", "Backend Services"],
-  currentlyLearning: ["Angular", "TypeScript", "Software Architecture"],
-  tools: ["Git", "Docker", "Linux", "GitHub Actions"]
+const lautaro: Alien = { 
+  location: "Buenos Aires, Argentina 🇦🇷", 
+  education: "Tecnicatura Universitaria en Programación - UTN", 
+  focus: ["Full-Stack Development", "Web Applications", "Backend Services"], 
+  currentlyLearning: ["Angular", "TypeScript", "Software Architecture"], 
+  tools: ["TypeScript", "Angular", "CI/CD", "Docker"], 
+  
+  fueledBy: ["Coffee", "Mate", "Issues"], 
+  naturalHabitat: "VS Code", 
+  weakness: "Centering divs", 
+  favoriteHttpStatus: 418, 
+  superpower: "Turning requirements into more requirements", 
+  productionDeploymentStrategy: "It worked on my machine" 
 };
 ```
 
