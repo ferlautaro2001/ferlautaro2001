@@ -40,7 +40,7 @@
         <a href="https://github.com/ferlautaro2001/sakurapp-2026">🌸 SakurApp</a>
       </h4>
       <p>
-        Mobile application developed as a university final project, featuring
+        Mobile application developed as a university project, featuring
         authentication, role-based workflows, QR scanning and native mobile capabilities.
       </p>
       <p>
