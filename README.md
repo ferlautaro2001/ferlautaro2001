@@ -11,12 +11,12 @@
 
 <a href="https://www.linkedin.com/in/lautaro-fernandez-241a31237/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ferlautaro.utn.2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/ferlautaro2001?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=ferlautaro2001&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS" />
 
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 <div align="center">
 
@@ -27,8 +27,10 @@
 </picture>
 
 </div>
+
 <!-- ═══════════════════════════ ABOUT + TECH STACK ═══════════════════════════ -->
-## 👨‍💻 About me
+
+# 👨‍💻 About me
 
 <table>
 <tr>
@@ -42,23 +44,23 @@
 </tr>
 <tr>
 <td align="left" valign="middle"><sub><b>🎨 Frontend</b></sub></td>
-<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=angular,html,css&perline=3&theme=dark" /></td>
+<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=angular,rxjs,bootstrap,html,css&perline=5&theme=dark" /></td>
 </tr>
 <tr>
 <td align="left" valign="middle"><sub><b>⚙️ Backend</b></sub></td>
-<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=nodejs,express&perline=2&theme=dark" /></td>
+<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=3&theme=dark" /></td>
 </tr>
 <tr>
 <td align="left" valign="middle"><sub><b>🗄️ Data & Cloud</b></sub></td>
-<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase&perline=5&theme=dark" /></td>
+<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,gcp&perline=6&theme=dark" /></td>
 </tr>
 <tr>
 <td align="left" valign="middle"><sub><b>🧰 DevOps</b></sub></td>
-<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=docker,git,github,githubactions&perline=4&theme=dark" /></td>
+<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux&perline=5&theme=dark" /></td>
 </tr>
 <tr>
 <td align="left" valign="middle"><sub><b>💻 Tools</b></sub></td>
-<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=linux,vscode&perline=2&theme=dark" /></td>
+<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=figma,postman,bash,powershell&perline=4&theme=dark" /></td>
 </tr>
 </table>
 
@@ -67,10 +69,18 @@
 
 ```ts
 const lautaro: Alien = {
-  location: "Buenos Aires, Argentina 🇦🇷",
-  education: "Tecnicatura Universitaria en Programación - UTN",
-  focus: ["Full-Stack Development", "Web Applications", "Backend Services"],
-  currentlyLearning: ["Angular", "TypeScript", "Software Architecture"],
+  location: "Buenos Aires, AR 🇦🇷",
+  education: "TUP @ UTN",
+  focus: [
+    "Full-Stack Development",
+    "Web Applications",
+    "Backend Services",
+  ],
+  currentlyLearning: [
+    "Angular",
+    "TypeScript",
+    "Software Architecture",
+  ],
   tools: ["TypeScript", "Angular", "CI/CD", "Docker"],
 
   fueledBy: ["Coffee ☕", "Mate 🧉", "Issues 🐛"],
@@ -78,7 +88,7 @@ const lautaro: Alien = {
   weakness: "Centering divs",
   favoriteHttpStatus: 418, // I'm a teapot 🫖
   superpower: "Turning requirements into more requirements",
-  productionDeploymentStrategy: "It worked on my machine"
+  deployStrategy: "It worked on my machine",
 };
 ```
 
