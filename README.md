@@ -27,12 +27,43 @@
 </picture>
 
 </div>
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
+<!-- ═══════════════════════════ ABOUT + TECH STACK ═══════════════════════════ -->
+## 👨‍💻 About me
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="40%" valign="top">
+
+<table>
+<tr><th colspan="2" align="left">🛠️ Tech Stack</th></tr>
+<tr>
+<td align="left" valign="middle"><sub><b>💬 Languages</b></sub></td>
+<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=java,python,js,ts&perline=4&theme=dark" /></td>
+</tr>
+<tr>
+<td align="left" valign="middle"><sub><b>🎨 Frontend</b></sub></td>
+<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=angular,html,css&perline=3&theme=dark" /></td>
+</tr>
+<tr>
+<td align="left" valign="middle"><sub><b>⚙️ Backend</b></sub></td>
+<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=nodejs,express&perline=2&theme=dark" /></td>
+</tr>
+<tr>
+<td align="left" valign="middle"><sub><b>🗄️ Data & Cloud</b></sub></td>
+<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase&perline=5&theme=dark" /></td>
+</tr>
+<tr>
+<td align="left" valign="middle"><sub><b>🧰 DevOps</b></sub></td>
+<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=docker,git,github,githubactions&perline=4&theme=dark" /></td>
+</tr>
+<tr>
+<td align="left" valign="middle"><sub><b>💻 Tools</b></sub></td>
+<td align="left" valign="middle"><img height="30" src="https://skillicons.dev/icons?i=linux,vscode&perline=2&theme=dark" /></td>
+</tr>
+</table>
+
+</td>
+<td width="60%" valign="top">
 
 ```ts
 const lautaro: Alien = {
@@ -50,21 +81,6 @@ const lautaro: Alien = {
   productionDeploymentStrategy: "It worked on my machine"
 };
 ```
-
-</td>
-<td width="42%" valign="top">
-
-🎓 Studying at **Universidad Tecnológica Nacional (UTN)**
-
-🧩 I enjoy turning ideas and requirements into **functional applications**
-
-🌐 Working across **frontend, backend, databases and deployment**
-
-🔭 Currently strengthening my skills across the **full software development lifecycle**
-
-🤝 Open to collaborating on **web & full-stack projects**
-
-💬 Ask me about **Angular, TypeScript, Supabase or Node.js**
 
 </td>
 </tr>
@@ -174,30 +190,6 @@ const lautaro: Alien = {
 </td>
 </tr>
 </table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<h4>💬 Languages</h4>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
-
-<h4>🎨 Frontend & Mobile</h4>
-<img src="https://skillicons.dev/icons?i=angular,html,css,ionic&theme=dark" />
-
-<h4>⚙️ Backend</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-<h4>🗄️ Databases & Cloud</h4>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase&theme=dark" />
-
-<h4>🧰 DevOps & Tools</h4>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode&theme=dark" />
-
-</div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
