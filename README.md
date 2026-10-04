@@ -161,29 +161,13 @@ Full-stack university project built around a REST API.
 
 # 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=angular,html,css&theme=dark" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-### Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase&theme=dark" />
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux&theme=dark" />
-
-</div>
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,html,css&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /> |
+| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase&theme=dark" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux&theme=dark" /> |
 
 ---
 
