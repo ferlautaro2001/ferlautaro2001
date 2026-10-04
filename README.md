@@ -17,7 +17,16 @@
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferlautaro2001/ferlautaro2001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferlautaro2001/ferlautaro2001/output/github-snake.svg" />
+  <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/ferlautaro2001/ferlautaro2001/output/github-snake-dark.svg" />
+</picture>
+
+</div>
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
 
@@ -203,17 +212,6 @@ const lautaro: Alien = {
 <img src="https://streak-stats.demolab.com?user=ferlautaro2001&theme=tokyonight&hide_border=true&background=0D1117&ring=2F80ED&fire=56CCF2&currStreakLabel=56CCF2" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ferlautaro2001&bg_color=0D1117&color=56CCF2&line=2F80ED&point=FFFFFF&area=true&area_color=2F80ED&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferlautaro2001/ferlautaro2001/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ferlautaro2001/ferlautaro2001/output/github-snake.svg" />
-  <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/ferlautaro2001/ferlautaro2001/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
