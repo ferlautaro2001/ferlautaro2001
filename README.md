@@ -1,22 +1,3 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2F80ED,100:56CCF2&height=220&section=header&text=Lautaro%20Fern%C3%A1ndez&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20UTN&descSize=18&descAlignY=58" />
-
-<a href="https://github.com/ferlautaro2001">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=56CCF2&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%91%8B+Hello+world%2C+I'm+Lautaro;%F0%9F%8E%93+Programming+student+at+UTN;%F0%9F%9A%80+Building+full-stack+web+applications;%E2%9A%A1+Angular+%7C+TypeScript+%7C+Node.js;%F0%9F%93%88+Learning%2C+building+and+improving+every+day" alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/lautaro-fernandez-241a31237/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ferlautaro.utn.2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=ferlautaro2001&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS" />
-
-</div>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 <div align="center">
 
