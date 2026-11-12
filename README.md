@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════════ HERO: CYBER-BRUTALIST HEADER ═══════════════════════════ -->
 <a href="https://github.com/ferlautaro2001">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:161B22,100:2F80ED&height=200&section=header&text=LAUTARO%20FERN%C3%81NDEZ&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=%5B%20SYS.ARCH%20%2F%2F%20FULL-STACK%20ENGINEER%20%2F%2F%20BUE%2C%20ARG%20%5D&descSize=15&descColor=56CCF2&descAlignY=68&stroke=56CCF2&strokeWidth=1" alt="Lautaro Fernandez Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:161B22,100:2F80ED&height=200&section=header&text=LAUTARO%20FERNANDEZ&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=%5B%20SYS.ARCH%20%2F%2F%20FULL-STACK%20ENGINEER%20%2F%2F%20BUE%2C%20ARG%20%5D&descSize=15&descColor=56CCF2&descAlignY=68&stroke=56CCF2&strokeWidth=1" alt="Lautaro Fernandez Banner" />
 </a>
 
 <p align="center">
